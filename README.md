@@ -1,7 +1,9 @@
 # 🤖 AI-Powered SEMSEM Robot for Kids with Autism
 
-This is my Dissertation  for my Electrical and Communication Engineering degree (2022–2023), completed at the British University in Egypt  
-SEMSEM is an interactive, 3D prototype to help autistic children express emotions and improve social interaction through real-time emotion detection and gesture response.
+This is my dissertation project for my Electrical and Communication Engineering degree (2022–2023), completed at the British University in Egypt.
+
+**SEMSEM** is an interactive 3D-printed robot designed to support autistic children in expressing emotions and improving social interaction through real time emotion detection and gesture based responses.
+
 
 ---
 
